@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# practicing TDD
+
+An app for practicing a little bit of outside-in TDD.
+
+Production: <https://opinion-ate-react-tdd-practice.netlify.app/>
+
+Dependencies are locked with a `yarn.lock` file, so please use `yarn` and not `npm` for installing them.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
